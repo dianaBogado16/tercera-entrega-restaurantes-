@@ -1,22 +1,14 @@
-# Trabajando con VITE
-
-
-# Creo el esqueleto 
+# Nombre
 ```sh
-npm create vite@latest ./
+Diana Bogado
 ```
 
-# Instalo las dependencias
+# Link Github
 ```sh
-npm install
+https://github.com/dianaBogado16/tercera-entrega-restaurantes-.git
 ```
 
-## Arranco el servidor de desarrollo
-
+# Link netlify
 ```sh
-npm run dev
+
 ```
-
-## Detengo el servidor de desarrollo
-
-ctrl + c    
