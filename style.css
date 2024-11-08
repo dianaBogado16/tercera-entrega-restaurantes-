@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(40, 151, 136);
+}
+
+.titulo {
+    color: #FCEA3E;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imagenes {
+    border: 9px solid white;
+}
+
+.margen-derecha-arriba {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.centrar {
+    text-align: center;
+}
